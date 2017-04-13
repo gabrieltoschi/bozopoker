@@ -1,5 +1,5 @@
 # Bozó Poker
 
-This is a Java implementation of a different version of the classic dice game *Bozó*, called **Bozó Poker** (or *Video Poker*), made for the Object-Oriented Programming (OOP) class in ICMC-USP, SP, Brazil, by Gabriel Toschi ([@gabrieltoschi](https://github.com/gabrieltoschi)) and Marcos Wendell.
+This is a Java implementation of a different version of the classic dice game *Bozó*, called **Bozó Poker** (or *Video Poker*), made for the Object-Oriented Programming (OOP) class in ICMC-USP, SP, Brazil, by Gabriel Toschi ([@gabrieltoschi](https://github.com/gabrieltoschi)) and Marcos Wendell ([@MarcosWendell](https://github.com/MarcosWendell)).
 
 The original Bozó is a dice game, played with five D6; this version uses a full deck of playing cards. The goal is obtain the highest score using hands of five cards, based on poker hands. On each turn, the player make a bet in Credits, pick the cards and can re-pick them two times. At the end of each turn, if the player get a Poker hand, wins more Credits; if the hand is blank, the player lose these Credits. More informations about the original Bozó in http://ludopedia.com.br/jogo/bozo (in Portuguese). The game have a text-based interface, also in Portuguese.
